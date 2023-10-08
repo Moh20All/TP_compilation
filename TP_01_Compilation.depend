@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696680211 source:c:\users\moh\desktop\moh\legendary year\s5\compilation\tp_01_compilation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
